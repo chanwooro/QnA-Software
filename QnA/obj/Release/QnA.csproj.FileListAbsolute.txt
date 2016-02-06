@@ -1,0 +1,108 @@
+C:\Users\FFrost\Desktop\C#\할미새사촌\Work\QnA\QnA\bin\Release\QnA.exe.config
+C:\Users\FFrost\Desktop\C#\할미새사촌\Work\QnA\QnA\bin\Release\QnA.exe
+C:\Users\FFrost\Desktop\C#\할미새사촌\Work\QnA\QnA\bin\Release\QnA.pdb
+C:\Users\FFrost\Desktop\C#\할미새사촌\Work\QnA\QnA\bin\Release\System.Data.SqlServerCe.dll
+C:\Users\FFrost\Desktop\C#\할미새사촌\Work\QnA\QnA\obj\Release\QnA.Delete.resources
+C:\Users\FFrost\Desktop\C#\할미새사촌\Work\QnA\QnA\obj\Release\QnA.Dummy.resources
+C:\Users\FFrost\Desktop\C#\할미새사촌\Work\QnA\QnA\obj\Release\QnA.MainStaff.resources
+C:\Users\FFrost\Desktop\C#\할미새사촌\Work\QnA\QnA\obj\Release\QnA.newSQ.resources
+C:\Users\FFrost\Desktop\C#\할미새사촌\Work\QnA\QnA\obj\Release\QnA.NewSubject.resources
+C:\Users\FFrost\Desktop\C#\할미새사촌\Work\QnA\QnA\obj\Release\QnA.newSubQuestion.resources
+C:\Users\FFrost\Desktop\C#\할미새사촌\Work\QnA\QnA\obj\Release\QnA.Properties.Resources.resources
+C:\Users\FFrost\Desktop\C#\할미새사촌\Work\QnA\QnA\obj\Release\QnA.remove.resources
+C:\Users\FFrost\Desktop\C#\할미새사촌\Work\QnA\QnA\obj\Release\QnA.Signin.resources
+C:\Users\FFrost\Desktop\C#\할미새사촌\Work\QnA\QnA\obj\Release\QnA.SubQuestion.resources
+C:\Users\FFrost\Desktop\C#\할미새사촌\Work\QnA\QnA\obj\Release\QnA.csproj.GenerateResource.Cache
+C:\Users\FFrost\Desktop\C#\할미새사촌\Work\QnA\QnA\obj\Release\QnA.exe
+C:\Users\FFrost\Desktop\C#\할미새사촌\Work\QnA\QnA\obj\Release\QnA.pdb
+C:\Users\FFrost\Desktop\C#\할미새사촌\Work\QnA\QnA\obj\Release\QnA.csprojResolveAssemblyReference.cache
+C:\Users\FFrost\Desktop\C#\Work\QnA\QnA\bin\Release\QnA.exe.config
+C:\Users\FFrost\Desktop\C#\Work\QnA\QnA\obj\Release\QnA.exe
+C:\Users\FFrost\Desktop\C#\Work\QnA\QnA\obj\Release\QnA.pdb
+C:\Users\FFrost\Desktop\C#\Work\QnA\QnA\bin\Release\QnA.exe
+C:\Users\FFrost\Desktop\C#\Work\QnA\QnA\bin\Release\QnA.pdb
+C:\Users\FFrost\Desktop\C#\Work\QnA\QnA\bin\Release\System.Data.SqlServerCe.dll
+C:\Users\FFrost\Desktop\C#\Work\QnA\QnA\obj\Release\QnA.Delete.resources
+C:\Users\FFrost\Desktop\C#\Work\QnA\QnA\obj\Release\QnA.Dummy.resources
+C:\Users\FFrost\Desktop\C#\Work\QnA\QnA\obj\Release\QnA.MainStaff.resources
+C:\Users\FFrost\Desktop\C#\Work\QnA\QnA\obj\Release\QnA.NewSubject.resources
+C:\Users\FFrost\Desktop\C#\Work\QnA\QnA\obj\Release\QnA.newSubQuestion.resources
+C:\Users\FFrost\Desktop\C#\Work\QnA\QnA\obj\Release\QnA.Properties.Resources.resources
+C:\Users\FFrost\Desktop\C#\Work\QnA\QnA\obj\Release\QnA.remove.resources
+C:\Users\FFrost\Desktop\C#\Work\QnA\QnA\obj\Release\QnA.Signin.resources
+C:\Users\FFrost\Desktop\C#\Work\QnA\QnA\obj\Release\QnA.csproj.GenerateResource.Cache
+C:\Users\FFrost\Desktop\C#\Work\QnA\QnA\bin\Release\subjectData.sdf
+C:\Users\FFrost\Desktop\C#\Work\QnA\QnA\obj\Release\QnA.csprojResolveAssemblyReference.cache
+C:\Users\FFrost\Desktop\C#\Work\QnA\QnA\bin\Release\QnA.exe.manifest
+C:\Users\FFrost\Desktop\C#\Work\QnA\QnA\bin\Release\QnA.application
+C:\Users\FFrost\Desktop\C#\Work\QnA\QnA\obj\Release\QnA.exe.manifest
+C:\Users\FFrost\Desktop\C#\Work\QnA\QnA\obj\Release\QnA.application
+C:\Users\FFrost\Desktop\C#\Work\QnA\QnA\bin\Release\subjectData.mdf
+C:\Users\FFrost\Desktop\C#\Work\QnA\QnA\bin\Release\subjectData_log.ldf
+C:\Users\FFrost\Desktop\C#\Work\QnA\QnA\obj\Release\QnA.Student.resources
+C:\Users\FFrost\Desktop\C#\Work\QnA\QnA\obj\Release\QnA.Test.resources
+C:\Users\FFrost\Desktop\C#\Work\QnA\QnA\obj\Release\QnA.preview.resources
+C:\Users\FFrost\Desktop\C#\Work\QnA\QnA\obj\Release\QnA.TestLoad.resources
+C:\Users\FFrost\Desktop\C#\Work\QnA\QnA\obj\Release\QnA.ListTest.resources
+C:\Users\FFrost\Desktop\C#\Work\QnA\QnA\obj\Release\QnA.TestPerform.resources
+C:\Users\FFrost\Desktop\C#\Work\QnA\QnA\obj\Release\QnA.Confirm.resources
+C:\Users\FFrost\Desktop\Aimhigh\Aimhigh\Work\QnA\QnA\bin\Release\QnA.exe.config
+C:\Users\FFrost\Desktop\Aimhigh\Aimhigh\Work\QnA\QnA\obj\Release\QnA.exe
+C:\Users\FFrost\Desktop\Aimhigh\Aimhigh\Work\QnA\QnA\obj\Release\QnA.pdb
+C:\Users\FFrost\Desktop\Aimhigh\Aimhigh\Work\QnA\QnA\bin\Release\subjectData.mdf
+C:\Users\FFrost\Desktop\Aimhigh\Aimhigh\Work\QnA\QnA\bin\Release\subjectData.sdf
+C:\Users\FFrost\Desktop\Aimhigh\Aimhigh\Work\QnA\QnA\bin\Release\subjectData_log.ldf
+C:\Users\FFrost\Desktop\Aimhigh\Aimhigh\Work\QnA\QnA\bin\Release\QnA.exe.manifest
+C:\Users\FFrost\Desktop\Aimhigh\Aimhigh\Work\QnA\QnA\bin\Release\QnA.application
+C:\Users\FFrost\Desktop\Aimhigh\Aimhigh\Work\QnA\QnA\bin\Release\QnA.exe
+C:\Users\FFrost\Desktop\Aimhigh\Aimhigh\Work\QnA\QnA\bin\Release\QnA.pdb
+C:\Users\FFrost\Desktop\Aimhigh\Aimhigh\Work\QnA\QnA\bin\Release\System.Data.SqlServerCe.dll
+C:\Users\FFrost\Desktop\Aimhigh\Aimhigh\Work\QnA\QnA\obj\Release\QnA.csprojResolveAssemblyReference.cache
+C:\Users\FFrost\Desktop\Aimhigh\Aimhigh\Work\QnA\QnA\obj\Release\QnA.Confirm.resources
+C:\Users\FFrost\Desktop\Aimhigh\Aimhigh\Work\QnA\QnA\obj\Release\QnA.Delete.resources
+C:\Users\FFrost\Desktop\Aimhigh\Aimhigh\Work\QnA\QnA\obj\Release\QnA.Dummy.resources
+C:\Users\FFrost\Desktop\Aimhigh\Aimhigh\Work\QnA\QnA\obj\Release\QnA.ListTest.resources
+C:\Users\FFrost\Desktop\Aimhigh\Aimhigh\Work\QnA\QnA\obj\Release\QnA.MainStaff.resources
+C:\Users\FFrost\Desktop\Aimhigh\Aimhigh\Work\QnA\QnA\obj\Release\QnA.NewSubject.resources
+C:\Users\FFrost\Desktop\Aimhigh\Aimhigh\Work\QnA\QnA\obj\Release\QnA.newSubQuestion.resources
+C:\Users\FFrost\Desktop\Aimhigh\Aimhigh\Work\QnA\QnA\obj\Release\QnA.preview.resources
+C:\Users\FFrost\Desktop\Aimhigh\Aimhigh\Work\QnA\QnA\obj\Release\QnA.Properties.Resources.resources
+C:\Users\FFrost\Desktop\Aimhigh\Aimhigh\Work\QnA\QnA\obj\Release\QnA.remove.resources
+C:\Users\FFrost\Desktop\Aimhigh\Aimhigh\Work\QnA\QnA\obj\Release\QnA.Signin.resources
+C:\Users\FFrost\Desktop\Aimhigh\Aimhigh\Work\QnA\QnA\obj\Release\QnA.Student.resources
+C:\Users\FFrost\Desktop\Aimhigh\Aimhigh\Work\QnA\QnA\obj\Release\QnA.Test.resources
+C:\Users\FFrost\Desktop\Aimhigh\Aimhigh\Work\QnA\QnA\obj\Release\QnA.TestLoad.resources
+C:\Users\FFrost\Desktop\Aimhigh\Aimhigh\Work\QnA\QnA\obj\Release\QnA.TestPerform.resources
+C:\Users\FFrost\Desktop\Aimhigh\Aimhigh\Work\QnA\QnA\obj\Release\QnA.csproj.GenerateResource.Cache
+C:\Users\FFrost\Desktop\Aimhigh\Aimhigh\Work\QnA\QnA\obj\Release\QnA.exe.manifest
+C:\Users\FFrost\Desktop\Aimhigh\Aimhigh\Work\QnA\QnA\obj\Release\QnA.application
+C:\Users\FFrost\Desktop\Aimhigh\VERSION 3\Aimhigh\Work\QnA\QnA\bin\Release\QnA.exe.config
+C:\Users\FFrost\Desktop\Aimhigh\VERSION 3\Aimhigh\Work\QnA\QnA\obj\Release\QnA.exe
+C:\Users\FFrost\Desktop\Aimhigh\VERSION 3\Aimhigh\Work\QnA\QnA\obj\Release\QnA.pdb
+C:\Users\FFrost\Desktop\Aimhigh\VERSION 3\Aimhigh\Work\QnA\QnA\bin\Release\subjectData.mdf
+C:\Users\FFrost\Desktop\Aimhigh\VERSION 3\Aimhigh\Work\QnA\QnA\bin\Release\subjectData.sdf
+C:\Users\FFrost\Desktop\Aimhigh\VERSION 3\Aimhigh\Work\QnA\QnA\bin\Release\subjectData_log.ldf
+C:\Users\FFrost\Desktop\Aimhigh\VERSION 3\Aimhigh\Work\QnA\QnA\bin\Release\QnA.exe.manifest
+C:\Users\FFrost\Desktop\Aimhigh\VERSION 3\Aimhigh\Work\QnA\QnA\bin\Release\QnA.application
+C:\Users\FFrost\Desktop\Aimhigh\VERSION 3\Aimhigh\Work\QnA\QnA\bin\Release\QnA.exe
+C:\Users\FFrost\Desktop\Aimhigh\VERSION 3\Aimhigh\Work\QnA\QnA\bin\Release\QnA.pdb
+C:\Users\FFrost\Desktop\Aimhigh\VERSION 3\Aimhigh\Work\QnA\QnA\bin\Release\System.Data.SqlServerCe.dll
+C:\Users\FFrost\Desktop\Aimhigh\VERSION 3\Aimhigh\Work\QnA\QnA\obj\Release\QnA.csprojResolveAssemblyReference.cache
+C:\Users\FFrost\Desktop\Aimhigh\VERSION 3\Aimhigh\Work\QnA\QnA\obj\Release\QnA.Confirm.resources
+C:\Users\FFrost\Desktop\Aimhigh\VERSION 3\Aimhigh\Work\QnA\QnA\obj\Release\QnA.Delete.resources
+C:\Users\FFrost\Desktop\Aimhigh\VERSION 3\Aimhigh\Work\QnA\QnA\obj\Release\QnA.Dummy.resources
+C:\Users\FFrost\Desktop\Aimhigh\VERSION 3\Aimhigh\Work\QnA\QnA\obj\Release\QnA.ListTest.resources
+C:\Users\FFrost\Desktop\Aimhigh\VERSION 3\Aimhigh\Work\QnA\QnA\obj\Release\QnA.MainStaff.resources
+C:\Users\FFrost\Desktop\Aimhigh\VERSION 3\Aimhigh\Work\QnA\QnA\obj\Release\QnA.NewSubject.resources
+C:\Users\FFrost\Desktop\Aimhigh\VERSION 3\Aimhigh\Work\QnA\QnA\obj\Release\QnA.newSubQuestion.resources
+C:\Users\FFrost\Desktop\Aimhigh\VERSION 3\Aimhigh\Work\QnA\QnA\obj\Release\QnA.preview.resources
+C:\Users\FFrost\Desktop\Aimhigh\VERSION 3\Aimhigh\Work\QnA\QnA\obj\Release\QnA.Properties.Resources.resources
+C:\Users\FFrost\Desktop\Aimhigh\VERSION 3\Aimhigh\Work\QnA\QnA\obj\Release\QnA.remove.resources
+C:\Users\FFrost\Desktop\Aimhigh\VERSION 3\Aimhigh\Work\QnA\QnA\obj\Release\QnA.Signin.resources
+C:\Users\FFrost\Desktop\Aimhigh\VERSION 3\Aimhigh\Work\QnA\QnA\obj\Release\QnA.Student.resources
+C:\Users\FFrost\Desktop\Aimhigh\VERSION 3\Aimhigh\Work\QnA\QnA\obj\Release\QnA.Test.resources
+C:\Users\FFrost\Desktop\Aimhigh\VERSION 3\Aimhigh\Work\QnA\QnA\obj\Release\QnA.TestLoad.resources
+C:\Users\FFrost\Desktop\Aimhigh\VERSION 3\Aimhigh\Work\QnA\QnA\obj\Release\QnA.TestPerform.resources
+C:\Users\FFrost\Desktop\Aimhigh\VERSION 3\Aimhigh\Work\QnA\QnA\obj\Release\QnA.csproj.GenerateResource.Cache
+C:\Users\FFrost\Desktop\Aimhigh\VERSION 3\Aimhigh\Work\QnA\QnA\obj\Release\QnA.exe.manifest
+C:\Users\FFrost\Desktop\Aimhigh\VERSION 3\Aimhigh\Work\QnA\QnA\obj\Release\QnA.application

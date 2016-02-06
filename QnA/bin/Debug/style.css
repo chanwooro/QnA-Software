@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+#body, #footer, #content, #nav, #logo, #photo, #logo_name, #signup{
+
+margin-left: auto; 
+  margin-right: auto;
+
+}
+body{
+
+background: #d9d9d9;
+}
+
+
+#paragraph{
+margin-bottom: 30px;
+
+}
+
+#header{
+padding-left: 100px;
+padding-right: 100px;
+
+}
+#body{
+margin-left: 100px;
+width: 680px;
+padding-top: 25px;
+background: #FFF;
+height: 100%
+}
+
+
+#image img{
+
+max-width: 10px;
+max-height: 20px;
+width: 100%;
+height: 60%;
+display: block;
+    margin-left: auto;
+    margin-right: auto;
+	margin-bottom: 30px;
+	
+
+
+}
+
+.answerbox{
+	margin-left:40px;
+    width: 500px;
+	
+	border: 1px solid #3366FF;
+	border-left: 4px solid #3366FF;
+
+}
+#ans{
+	margin-top: 30px;
+	margin-left: 275px;
+}
